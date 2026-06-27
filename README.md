@@ -1,1 +1,2 @@
 # odin-recipes
+The Recipes project is one of the first practical assignments in The Odin Project, I will aims to create a simple website with recipes. During the project, I will demonstrate my ability to worl with the basic structure of HTML documents, create and organize web pages, use links, lists, images, and other basic markup elements. After completing the project, i will have practical experience in creating a multi-page website and will better understand the principles of building the structure of web resources.
